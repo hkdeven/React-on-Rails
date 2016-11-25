@@ -12,10 +12,12 @@ Summarizing, the application will behave as follows:
 
 Setup is simple and follows standard RoR procedures.  
 
-- Using your terminal, begin by running `git clone https://github.com/hkdeven/React-on-Rails.git` and then `cd React-on-Rails/`
-- Then run `bundle install` followed by `rake db:migrate`
-- And lastly, `rails s` to launch the server
-- Party.  Like it's 1999.
+1. Using your terminal, begin by running `git clone https://github.com/hkdeven/React-on-Rails.git`
+1. Then `cd React-on-Rails/`
+1.  Run `bundle install`
+1.  Followed by `rake db:migrate`
+1.  Lastly, `rails s` to launch the server
+1.  Party.  Like it's 1999.
 
 ##Enjoy :smile:
 
